@@ -220,7 +220,7 @@ Step 14. From the installation files install HeidiSQL
 - Click Open
 
 <p align="center">
-<img src="https://imgur.com/Xwg85Fr.png alt="Traffic Examination"/>
+<a href="https://imgur.com/ZhRDtni"><img src="https://i.imgur.com/ZhRDtni.png" title="source: imgur.com" /></a>
 </p>
 <br />
 <br />
@@ -228,7 +228,7 @@ Step 14. From the installation files install HeidiSQL
 14b. After you click open you should see the following screen:
 
 <p align="center">
-<img src="https://imgur.com/AlvSYKt.png alt="Traffic Examination"/>
+<a href="https://imgur.com/zR6CqqT"><img src="https://i.imgur.com/zR6CqqT.png" title="source: imgur.com" /></a>
 </p>
 <br />
 <br />
@@ -236,4 +236,4 @@ Step 14. From the installation files install HeidiSQL
 Success! You have installed osTicket!
 Thank You for reading!
 
-For the the next tutorial in this series go <a href=https://github.com/presicion25/osTicket-Configuration>here</a></h2>
+For the the osTicket configuration tutorial in this series go <a href=https://github.com/tarronacuff/osTicket-Configuration>here</a></h2>
